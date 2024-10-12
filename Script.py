@@ -359,7 +359,7 @@ Name - {}
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 <code>/batch https://t.me/MatRixBotzTG https://t.me/MatRixBotzTG</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/MatRixBotzTG><b>𝗠𝗮𝘁𝗥𝗶𝘅𝗕𝗼𝘁𝘇𝗧𝗚</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href='http://t.me/MCU_ADMIN_V1_BOT'>𝐍𝐚𝐳𝐫𝐢𝐲𝐚 𝐀𝐝𝐦𝐢𝐧</a>"""
     NORSLTS = """
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
 
@@ -369,7 +369,7 @@ Name - {}
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/MLZ_BOTZ><b>𝗠𝗮𝘁𝗥𝗶𝘅𝗕𝗼𝘁𝘇𝗧𝗚</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href='http://t.me/MCU_ADMIN_V1_BOT'>𝐍𝐚𝐳𝐫𝐢𝐲𝐚 𝐀𝐝𝐦𝐢𝐧</a>
 
 
 
